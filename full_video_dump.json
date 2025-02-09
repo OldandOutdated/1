@@ -1,0 +1,277 @@
+{
+    "Video Metadata": {
+        "Video Path": "/mnt/data/2019-12-01 01_29_58.300(Forward-camera).avi",
+        "Frame Count": 26,
+        "Frame Rate": 5.0,
+        "Duration (seconds)": 5.2,
+        "Resolution": {
+            "Width": 1280,
+            "Height": 720
+        },
+        "Codec": 875967096,
+        "Bitrate": 1173,
+        "Format": "AVI"
+    },
+    "Frames Data": [
+        {
+            "Frame Number": 0,
+            "Timestamp": 0.0,
+            "Mean Pixel Value": 33.847973090277776,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 1,
+            "Timestamp": 0.2,
+            "Mean Pixel Value": 51.02748914930555,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 2,
+            "Timestamp": 0.4,
+            "Mean Pixel Value": 47.096151982060185,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 3,
+            "Timestamp": 0.6,
+            "Mean Pixel Value": 49.30349139178241,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 4,
+            "Timestamp": 0.8,
+            "Mean Pixel Value": 49.58085358796296,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 5,
+            "Timestamp": 1.0,
+            "Mean Pixel Value": 50.77402958622685,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 6,
+            "Timestamp": 1.2,
+            "Mean Pixel Value": 43.14108506944444,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 7,
+            "Timestamp": 1.4,
+            "Mean Pixel Value": 38.77554615162037,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 8,
+            "Timestamp": 1.6,
+            "Mean Pixel Value": 38.77146954571759,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 9,
+            "Timestamp": 1.8,
+            "Mean Pixel Value": 41.90339048032408,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 10,
+            "Timestamp": 2.0,
+            "Mean Pixel Value": 42.14197880497685,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 11,
+            "Timestamp": 2.2,
+            "Mean Pixel Value": 37.40652199074074,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 12,
+            "Timestamp": 2.4,
+            "Mean Pixel Value": 36.39087962962963,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 13,
+            "Timestamp": 2.6,
+            "Mean Pixel Value": 38.7768384693287,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 14,
+            "Timestamp": 2.8,
+            "Mean Pixel Value": 42.83906467013889,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 15,
+            "Timestamp": 3.0,
+            "Mean Pixel Value": 40.586790002893515,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 16,
+            "Timestamp": 3.2,
+            "Mean Pixel Value": 33.912910517939814,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 17,
+            "Timestamp": 3.4,
+            "Mean Pixel Value": 37.63944878472222,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 18,
+            "Timestamp": 3.6,
+            "Mean Pixel Value": 40.16136574074074,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 19,
+            "Timestamp": 3.8,
+            "Mean Pixel Value": 42.86754087094907,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 20,
+            "Timestamp": 4.0,
+            "Mean Pixel Value": 44.85278971354167,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 21,
+            "Timestamp": 4.2,
+            "Mean Pixel Value": 44.84904984085648,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 22,
+            "Timestamp": 4.4,
+            "Mean Pixel Value": 38.79409035011574,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 23,
+            "Timestamp": 4.6,
+            "Mean Pixel Value": 46.28028682002315,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 24,
+            "Timestamp": 4.8,
+            "Mean Pixel Value": 35.079728009259256,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        },
+        {
+            "Frame Number": 25,
+            "Timestamp": 5.0,
+            "Mean Pixel Value": 35.161988208912035,
+            "Resolution": [
+                720,
+                1280
+            ],
+            "Channels": 3
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "total_frames": 26,
+    "expected_fps": 5,
+    "actual_fps": 5.0,
+    "irregular_frame_count": 24,
+    "irregular_frames": [
+        {
+            "PTS (seconds)": 0.0,
+            "Frame Interval (seconds)": NaN,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 0.6,
+            "Frame Interval (seconds)": 0.19999999999999996,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 0.8,
+            "Frame Interval (seconds)": 0.20000000000000007,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 1.0,
+            "Frame Interval (seconds)": 0.19999999999999996,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 1.2,
+            "Frame Interval (seconds)": 0.19999999999999996,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 1.4,
+            "Frame Interval (seconds)": 0.19999999999999996,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 1.6,
+            "Frame Interval (seconds)": 0.20000000000000018,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 1.8,
+            "Frame Interval (seconds)": 0.19999999999999996,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 2.0,
+            "Frame Interval (seconds)": 0.19999999999999996,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 2.2,
+            "Frame Interval (seconds)": 0.20000000000000018,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 2.4,
+            "Frame Interval (seconds)": 0.19999999999999973,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 2.6,
+            "Frame Interval (seconds)": 0.20000000000000018,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 2.8,
+            "Frame Interval (seconds)": 0.19999999999999973,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 3.0,
+            "Frame Interval (seconds)": 0.20000000000000018,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 3.2,
+            "Frame Interval (seconds)": 0.20000000000000018,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 3.4,
+            "Frame Interval (seconds)": 0.19999999999999973,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 3.6,
+            "Frame Interval (seconds)": 0.20000000000000018,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 3.8,
+            "Frame Interval (seconds)": 0.19999999999999973,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 4.0,
+            "Frame Interval (seconds)": 0.20000000000000018,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 4.2,
+            "Frame Interval (seconds)": 0.20000000000000018,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 4.4,
+            "Frame Interval (seconds)": 0.20000000000000018,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 4.6,
+            "Frame Interval (seconds)": 0.1999999999999993,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 4.8,
+            "Frame Interval (seconds)": 0.20000000000000018,
+            "Frame Gap": false
+        },
+        {
+            "PTS (seconds)": 5.0,
+            "Frame Interval (seconds)": 0.20000000000000018,
+            "Frame Gap": false
+        }
+    ],
+    "possible_dashcam_metadata": {}
+}
